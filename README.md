@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alex
+- 🔗 My personal website can be found here: https://alexjin.me/
+- 🌱 I’m currently thinking about how AI will shape the next decade of products at https://alltheai.substack.com/
